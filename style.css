@@ -1,0 +1,47 @@
+.header, footer {
+ background-color: #1f2937;   
+}
+
+.header h1 {
+    font-weight: bolder;
+    font-size:48px;
+    color:#F9FAF8;
+}
+
+.header  {
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color:#E5E7EB; 
+}
+ul {
+    list-style-type:none;
+}
+
+.header .logo {
+    font-size:24px;
+    color:#F9FAF8;
+}
+
+button, .section_3{
+    background-color:#3882F6;
+}
+
+.main .info {
+    font-size:36px;
+    font-weight:bolder;
+    color:#1f2937;
+}
+
+.section_2 {
+    background-color: #E5E7EB;
+    font-style:italic;
+    font-size:36px;
+    color:#1F2937;
+}
